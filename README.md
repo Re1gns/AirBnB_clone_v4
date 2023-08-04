@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Victor Olatunde - [Github](https://github.com/Re1gns)
-Kouti Divine - [Github](https://github.com/kouti)
+Kouti Divine - [Github](https://github.com/kouti) / [Twitter](https://twitter.com/kouts_CQ)
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
